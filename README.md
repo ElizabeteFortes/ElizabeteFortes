@@ -1,5 +1,6 @@
-Hi there 👋
+# Hi there, I'm Elizabete Fortes!👋
 
-- Currently learning CSS and Javascript
-- Email: elizabetefortespt@gmail.com
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=elizabetefortes&show_icons=true&theme=radical"/>
+
+<img align="left" widht="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabetefortes&layout=compact"/>
 
